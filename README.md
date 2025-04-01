@@ -22,5 +22,7 @@ A simple Tic-Tac-Toe game built with React and TypeScript for the mokSa.ai Front
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Blackstocks/mokSa.ai.git
    cd tic-tac-toe
+   npm install or npm install --legacy-peer-deps
+   npm run dev
